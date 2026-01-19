@@ -1,8 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports NZ 1 FHD" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="Sky Sports NZ",Sky Sports NZ 1 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
-https://mpdchecker.webiptv.site/tok.php?url=https%3A%2F%2Fdice-live-oc.akamaized.net%2Fhdntl%3Dexp%3D1768929337%7Eacl%3D%252f%2A%7Eid%3D7efb226c-d128-4737-a0eb-a26670d8befa%7Edata%3Dhdntl%2CdWlkPTk2NDM3fGRjZS5za3lueiZpcD0xNTAuMTA3LjE3My4yMTEmZXhwPTE3Njg5MjkzNjYmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF%7Ehmac%3D0901842db04ee2cb5ce6c55fdba52022c0a772f294debe21ac1dd7baad540882%2Fdash%2Flive%2F2093749%2F219026-314033%2Fmanifest-d.mpd&token=e4fa33c8fb23f5671bf68ca3108d5580
-
